@@ -4,16 +4,26 @@
 
 # 🛠 Tech Stack
 
+Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,py,php" />
 </p>
 
+Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,py,php,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,spring" />
 </p>
 
+BackEnd / Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
+
+Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" />
 </p>
+
+
 
 
