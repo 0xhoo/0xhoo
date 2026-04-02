@@ -21,7 +21,7 @@ BackEnd / Database
 
 Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,eclipse" />
 </p>
 
 
