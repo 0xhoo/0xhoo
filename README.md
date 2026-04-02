@@ -3,8 +3,17 @@
 </p>
 
 # 🛠 Tech Stack
-<br>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,spring,java,py,php,mysql,nodejs,git,github,vscode,idea,pycharm&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,py,php,nodejs,mysql" />
+</p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" />
+</p>
+
 
