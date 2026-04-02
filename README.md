@@ -23,5 +23,5 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&pause=1000&color=ACBCFF&width=435&lines=Tools" alt="Typing SVG" />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,eclipse,notion,figma" />
 </p>
