@@ -1,8 +1,7 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&fontColor=E0F7FA&height=200&section=header&text=Welcome+to+Sihoo's+Github!&fontSize=40"/>
-</p>
+![Header](https://capsule-render.vercel.app/render?type=bars&color=auto&text=Welcome%20to%20my%20GitHub!&fontSize=70)
 
-<p>
-  <!-- gmail -->
-  <img src="https://img.shields.io/badge/0x0xhoo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</p>
+### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&theme=radical)
